@@ -1,0 +1,20 @@
+{
+  "name": "http2-proxy-middleware",
+  "version": "1.0.0",
+  "description": "based on http2-proxy, http2-express-bridge, http-proxy-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxy5202/http2-proxy-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gxy5202/http2-proxy-middleware/issues"
+  },
+  "homepage": "https://github.com/gxy5202/http2-proxy-middleware#readme"
+}
